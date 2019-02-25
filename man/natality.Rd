@@ -1,5 +1,5 @@
-\name{natality}
-\alias{natality}
+﻿\name{natality}
+%\alias{natality}
 \docType{data}
 \title{Natality data}
 \description{
